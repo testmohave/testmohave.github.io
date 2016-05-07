@@ -1,0 +1,27 @@
+.intro {
+    color: white;
+    background-color: black;
+}
+
+.intro img {
+    height: 100px;
+    width: 100px;
+}
+
+.my_projects {
+    background-color: red;
+    height: auto;
+}
+
+.my_projects h1 {
+    padding: 3%;
+}
+
+.my_projects .project {
+    background-color: inherit;
+}
+
+.contact {
+    background-color:aquamarine;
+}
+
